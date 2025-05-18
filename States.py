@@ -14,4 +14,4 @@ user_info={}  # <--- target of creation this dic is helping user when wants dele
 
 
 TOKEN = 'YourOwnToken' #Token for accessing telegram API server
-RECEIVER_CHAT_ID = '294690202' #in this case Pishronet.HR person #hr chat id is 171852929 #developer chat id is 294690202
+RECEIVER_CHAT_ID = 'YourChatId' 
